@@ -1,0 +1,10 @@
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.exe.config
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.exe
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.pdb
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csproj.CopyComplete
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.exe
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.pdb
